@@ -2,6 +2,9 @@
 # 🔮 About Dataset and visualization
 CIFAR-10 is a well-known benchmark dataset in machine learning and computer vision. It consists of 60,000 color images, each 32x32 pixels in size, categorized into 10 different classes. These classes include common objects and animals. CIFAR-10 is often used for tasks like image classification and object recognition, making it a standard dataset for evaluating and testing machine learning and deep learning models.
 
+### 👇 Kaggle Link : 
+https://www.kaggle.com/code/shiblinomani/implementation-of-neural-network-with-tensorflow
+
 ### 📌 note: 
 This code defines, trains, and evaluates a Convolutional Neural Network (CNN) for image classification:
 

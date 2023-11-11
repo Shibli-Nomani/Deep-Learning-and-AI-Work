@@ -6,6 +6,8 @@
 
 `bias:` Think of bias as the "base value" in a machine learning model. It's like an initial guess that the model starts with before learning from data.
 
+### 👇 Kaggle Link : 
+https://www.kaggle.com/code/shiblinomani/implementation-of-neural-network-with-pytorch
 
 ### 📌 note: 
 

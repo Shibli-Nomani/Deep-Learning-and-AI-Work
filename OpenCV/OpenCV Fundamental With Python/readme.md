@@ -1,6 +1,9 @@
 ### 🏪 OpenCV
 OpenCV is a popular open-source computer vision library that enables developers to perform various tasks like image processing, object detection, and video analysis in their applications.
 
+### 👇 Kaggle Link :
+https://www.kaggle.com/code/shiblinomani/opencv-fundamental-with-python
+
 ### 🌵 Nature of objects in Computer Vision
 `Static Computer Vision:`
 

@@ -2,6 +2,9 @@
 ### 🏪 OpenCV
 OpenCV is a popular open-source computer vision library that enables developers to perform various tasks like image processing, object detection, and video analysis in their applications.
 
+### 👇 Kaggle Link:
+https://www.kaggle.com/code/shiblinomani/opencv-orb-detector-bfmatcher-image-segmentation
+
 ### 🌁 Feature Detection for Image Similarity
 **Definition:** Feature detection in deep learning is the identification of key visual elements in images.
 Purpose: It's used to compare and match images based on these elements.

@@ -20,4 +20,7 @@
 * Speech Recognition: Transcribing spoken language into text, used in virtual assistants and voice-enabled devices.
 * Question Answering Systems: Systems like IBM Watson for answering questions based on textual information.
 
-**note:** all the codes have been executed on Google Colab. You may face difficulty while you are running it on kaggle notebook due to download related issue for some of the libraries of nltk toolkits.
+
+## Authors
+
+- [@LinkedIn Khan MD Shibli Nomani](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/)

@@ -1,3 +1,4 @@
+![rnn](https://github.com/Shibli-Nomani/Deep-Learning-and-AI-Work/assets/101654553/ae17d7ab-90c2-43af-a577-cc66596307dc)
 
 
 # 🚀 Exploring the World of Recurrent Neural Networks (RNNs)! 🧠✨
